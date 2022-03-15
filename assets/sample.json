@@ -1,0 +1,41 @@
+{
+    "name": "Ruslan Dude",
+    "age": 17,
+    "gender": "Laki-Laki",
+    "hobi": [
+        "Coding",
+        "Main game",
+        "Membaca"
+    ],
+    "github": {
+        "username": "ruslanramdani1st",
+        "repository": 6
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "Flutter: Introduction",
+            "subtitle": "Beautiful native apps with dart languange"
+        },
+        {
+            "id": 2,
+            "title": "Flutter: LinearLayout",
+            "subtitle": "How to design LinearLayout in Flutter"
+        },
+        {
+            "id": 3,
+            "title": "Flutter: RelativeLayout",
+            "subtitle": "How to design RelativeLayout in Flutter"
+        }
+    ],
+    "contact": {
+        "1": {
+            "name": "Dude",
+            "phone": "0895422688532"
+        },
+        "2": {
+            "name": "School",
+            "phone": "0225420220"
+        }
+    }
+}
